@@ -1,0 +1,5 @@
+{"ts":"2024-12-23T00:00:00Z","type":"created","msg":"cortex initialized - awaiting bootstrap"}
+{"ts":"2025-12-25T12:35:05Z","type":"modified","msg":"enhanced orchestrator: explicit task completion, agent creation, checkpointing"}
+{"ts":"2025-12-26T12:00:00Z","type":"bootstrap","msg":"initialized Invariant with 3 agents (engine, transforms, falsification), 3 skills (info-theory, invariance-metrics, transformation-design)"}
+{"ts":"2025-12-26T12:30:00Z","type":"modified","msg":"restructured schemas: added ScoreboardSpec (executable eval DSL), Lens (versioned representations), NegativeDataset (mandatory falsifiability), structured decision rules (no string eval)"}
+{"ts":"2025-12-26T13:00:00Z","type":"modified","msg":"aligned architecture: LLMProvider (gen+adversary), EmbeddingProvider (measurement), StatsEngine (court), Orchestrator (scientific method)"}
